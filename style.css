@@ -201,3 +201,16 @@ main section {
     font-weight: 400;
     margin: 20px 0 0 0 ;
 }
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+/* footer style */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    padding: 130px 200px;
+}
